@@ -1,6 +1,6 @@
 # 👋 Antonio Campos
 
-**SRE / Cloud & DevOps Engineer**
+**SRE / Observability / Cloud & DevOps Engineer**
 
 Based in Brazil.
 
@@ -23,7 +23,7 @@ My experience includes:
 
 ## 🌱 Mentorship
 
-I currently mentor three people from different professional backgrounds as they begin their journeys in software development, SRE, and DevOps. We meet weekly for lessons, discussions, and guidance on complementary courses to support their learning paths.
+I currently mentor some people from different professional backgrounds as they begin their journeys in software development, SRE, and DevOps. We meet weekly for lessons, discussions, and guidance on complementary courses to support their learning paths.
 
 ## 🚀 Selected Contributions
 
